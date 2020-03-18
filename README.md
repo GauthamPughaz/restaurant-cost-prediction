@@ -1,2 +1,2 @@
-# restaurant-cost-prediction
-A simple neural network with ReLU activation function to predict restaurant's cost.
+# Restaurant Cost Prediction
+A simple project to predict restaurant's cost in a MachineHack competition.
